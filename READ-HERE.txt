@@ -1,0 +1,13 @@
+MINI PROJECT BY:BRIAN ALUNYA OPANGA
+REG NO: BSCSF/MG/2896/09/21
+
+ManageS(MANAGE SCHEDULE) is a simple web application that allows you to organize your activities and manage your time adequately.To test how the apllication works,
+clone this repository to yoour localcomputer,copy the manageSchedule folder into the htdocs xampp folder.
+launch xampp control panel
+turn on both apache and mySql.
+open your browswer and type this address: http://127.0.0.1/manageSchedule/
+the project includes bootstrap so you should connect to the internet for full appealing interractive UI.
+a login page will appear you can register a new account,log in into the account and go ahead to test the website,
+it allows you to add activities,get a report of all the activities and constantly diplays the next upcoming activity on the main page.
+
+COPYRIGHT.2024
